@@ -3,7 +3,7 @@ a simple and quick approach for calculating genetic diversity
 
 # NOTE
 # Comments regarding code functionality
-this is currently none functional and takes code from an intermediate stage of development,
+this is currently non-functional and takes code from an intermediate stage of development,
 initially this code was written for more or less complete sequences. In contrast, this version 
 was developed to be used with short reads aligned to a reference. The basic input was 
 envisioned to be FASTA sequences with the names that conveyed the start and end of the 
