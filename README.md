@@ -1,5 +1,6 @@
 # diversity
 a simple and quick approach for calculating genetic diversity
+TOBE disregarded
 
 # NOTE
 # Comments regarding code functionality
